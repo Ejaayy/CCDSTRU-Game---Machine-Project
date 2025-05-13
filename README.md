@@ -6,6 +6,9 @@ This C program implements a unique 4x4 board game involving three roles: Uno, Do
 
 The game is played on a 4x4 grid. Uno and Tres place pieces ('O' and 'X', respectively), while Dos removes them. The game has unique winning conditions based on specific patterns on the board. 
 
+## Terminal Screenshot
+![Terminal Screenshot](ccdstru_pic.png)
+
 ### Winning Conditions
 
 A player wins if they align their pieces in the following patterns:
